@@ -1,0 +1,6 @@
+framework module Pods_MiaoKiit {
+  umbrella header "Pods-MiaoKiit-umbrella.h"
+
+  export *
+  module * { export * }
+}

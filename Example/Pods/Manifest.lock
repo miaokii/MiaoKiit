@@ -1,0 +1,23 @@
+PODS:
+  - MiaoKiit (0.1.0):
+    - SnapKit
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - MiaoKiit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  MiaoKiit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MiaoKiit: 9a7744b51de8ae589b6db20d08162b29114c7c51
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: bea24947a700024a81d52dbef88381025f109a42
+
+COCOAPODS: 1.9.3
